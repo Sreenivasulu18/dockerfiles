@@ -1,3 +1,4 @@
 FROM almalinux:9
 LABEL course="docker" \
-      tainer="sivakumar" 
+      tainer="sivakumar" \
+      author="info@joindevops.com" 
